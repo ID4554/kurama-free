@@ -1,0 +1,19 @@
+{
+  "name": "kurama-gratuit",
+  "version": "1.0.0",
+  "description": "Bot Index.js",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.6.3",
+    "fs": "^0.0.1-security",
+    "json": "^9.0.6",
+    "lowdb": "^1.0.0",
+    "warn": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kurama",
+  "license": "ISC"
+}

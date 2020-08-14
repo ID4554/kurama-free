@@ -545,6 +545,7 @@ client.on('message', function (message) {
         .addField("Sur Le Serveur :" , message.guild.name )
         .addField("Prefix :" , "/")
         .addField("ID Du Bot :" , "702687951976529950")
+        .addField("Serveurs : " , client.guilds.size)
         .addField("Langue :" , "Français")
         .setTimestamp()
         message.channel.send(embed)
